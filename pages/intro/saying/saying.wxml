@@ -1,0 +1,43 @@
+<!--pages/settings/clause/clause.wxml-->
+<view>
+    <text class="text-head">Copyright (C) 2018 佑米单词\n</text>
+    <text class="clause">
+实用谚语：
+
+All rivers run into sea　　 海纳百川。　　
+All roads lead to Rome　　  条条大路通罗马。　　
+A bully is always a coward　色厉内荏。　　
+A cat has 9 lives　　       猫有九条命。　　
+A cat may look at a king　　人人平等　　
+A bad thing never dies　　  遗臭万年。
+</text>
+    <text class="clause">
+名人名言：
+
+1、真正的才智是刚毅的志向。——拿破仑
+The real talent is resolute aspirations
+2、奇迹多在厄运中出现。——培根
+The miracle appear in bad luck
+3、美男子不会成为好丈夫。——托尔斯泰
+Man does not become a good husband
+4、要学会游泳，就必须下水。——列宁
+To learn to swim， you must be in the water
+5、生活是一种挑战，迎接它吧。——特里萨修女
+Life is a challenge， meet it
+6、时间就是速度，时间就是力量。——郭沫若
+Time is speed， time means strength
+7、思想正确，一生不败。——马尔腾
+Thought correctly， life unbeaten
+8、忘掉今天的人将被明天忘掉。——歌德
+Forget today will be forgotten tomorrow
+9、机不可失，时不再来。——张九龄
+Opportunity knocks but once
+10、不计波折多，但望结局好。——俄罗斯
+Regardless of the twists and turns， but at the end
+    </text>
+    <text class="clause">
+小编寄语：
+The best way out is always through.
+厚积而薄发
+</text>
+</view>

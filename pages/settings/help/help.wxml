@@ -1,0 +1,12 @@
+<view class="container">
+  <image class="logo" src="/images/search-logo.png"></image>
+  <text class="name">佑米单词 v0.0.1</text>
+  <text class="name">开发者信息</text>
+  <image class="user-avatar" src="/images/face.png"></image>
+  <text class="name">Dustin</text>
+  <text class="name">知乎: Dustin</text>
+  <text class="name">GitHub: @dalebenjamin</text>
+  <text class="name">个人主页：http://www.pengjun.me</text>
+  <text class="name">Project Embark</text>
+  <text class="copy">Copyright 2017 Chongqing University of posts and Telecommunications</text>
+</view>

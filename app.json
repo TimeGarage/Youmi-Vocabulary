@@ -1,0 +1,61 @@
+{
+  "pages":[
+    "pages/word/word",
+    "pages/search/search",
+    "pages/settings/settings",
+    "pages/search/detail/detail",
+    "pages/settings/clause/clause",
+    "pages/settings/help/help",
+    "pages/settings/feedback/feedback",
+    "pages/note/index/index",
+    "pages/note/create/index",
+    "pages/note/edit/index",
+    "pages/intro/intro",
+    "pages/intro/trick/trick",
+    "pages/intro/recommend/recommend",
+    "pages/intro/saying/saying"
+
+  ],
+  "tabBar": {
+    "backgroundColor" : "#F7F7FA",
+    "borderStyle": "white",
+    "list": [{
+      "pagePath": "pages/word/word",
+      "text": "背词",
+      "iconPath": "images/home.png",
+      "selectedIconPath": "images/home-selected.png"
+    },
+    {
+      "pagePath": "pages/search/search",
+      "text": "查词",
+      "iconPath": "images/search.png",
+      "selectedIconPath": "images/search-selected.png"
+    },
+    {
+      "pagePath": "pages/intro/intro",
+      "text": "方法",
+      "iconPath": "images/intro.png",
+      "selectedIconPath": "images/intro-selected.png"
+    },
+    {
+      "pagePath": "pages/note/index/index",
+      "text": "笔记",
+      "iconPath": "images/note.png",
+      "selectedIconPath": "images/note-selected.png"
+    },
+    {
+      "pagePath": "pages/settings/settings",
+      "text": "设置",
+      "iconPath": "images/settings.png",
+      "selectedIconPath": "images/settings-selected.png"
+    }]
+  },
+  "window":{
+    "backgroundTextStyle":"light",
+    "backgroundColor": "#EFEFF4",
+    "navigationBarBackgroundColor": "#2C2D31",
+    "navigationBarTitleText": "佑米单词",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh": true
+  }
+}

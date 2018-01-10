@@ -1,0 +1,9 @@
+<view class="container">
+  <image class="logo" src="/images/CET6.jpg"></image>
+  <text class="name">新东方六级词汇绿宝书</text>
+  <text class="name">推荐理由：销量第一的词汇书，词根记忆记得牢</text>
+  <image class="logo" src="/images/TOEFL.jpg"></image>
+  <text class="name">托福考试全真试题集</text>
+  <text class="name">推荐理由：ETS官方试题，掌握出题套路，快速提分</text>
+  <text class="copy">Copyright 2017 Chongqing University of posts and Telecommunications</text>
+</view>

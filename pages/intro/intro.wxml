@@ -1,0 +1,23 @@
+<view class="container">
+  <view bindtap="bindViewTap" class="userinfo">
+    <text class="userinfo-nickname">{{userInfo.nickName}},这些知识可能对你有帮助哦</text>
+  </view>
+  <view class="list-container">
+  <!--<view class="list-item" bindtap="showMyWord">
+    <text class="list-name">我的单词</text>
+    <image class="list-icon" src="/images/chevron.png"></image>
+  </view>-->
+  <view class="list-item" bindtap="showClause">
+    <text class="list-name">学习方法</text>
+    <image class="list-icon" src="/images/chevron.png"></image>
+  </view>
+  <view class="list-item" bindtap="showHelp">
+    <text class="list-name">图书推荐</text>
+    <image class="list-icon" src="/images/chevron.png"></image>
+  </view>
+  <view class="list-item" bindtap="showSaying">
+    <text class="list-name">素材宝库</text>
+    <image class="list-icon" src="/images/chevron.png"></image>
+  </view>
+  </view>
+</view>
